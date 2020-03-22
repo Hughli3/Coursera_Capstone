@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera_Capstone lab 1
+This project is mainly use for the Coursera Capstone section.
